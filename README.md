@@ -1,3 +1,2 @@
 # github-workflow-demo
-Shambu
-Demo repository to explain GitHub features and workflow.
+This repository demonstrates GitHub workflow including commits, branches and pull requests.
